@@ -10,3 +10,5 @@ At this point, you can mess around with the manual or take notes yourself about 
 If you are using [Fritzing](http://fritzing.org/home/), I've made a NS1 part in order to let everybody saving they patches. +
 
 enjoy!
+
+https://github.com/vongomben/Nanosynth-Experiments/blob/master/NS1%20Notebook%20Sample%20Page.pdf
